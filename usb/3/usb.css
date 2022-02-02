@@ -1,0 +1,54 @@
+dt,
+dd {
+  float: left;
+}
+dt {
+  clear: left;
+  margin-right: 1em;
+  min-width: 5em;
+}
+dt:after {
+  content: ':';
+}
+dl {
+  clear: left;
+}
+.row {
+  margin-top: 30px;
+}
+
+blockquote {
+  font-size: 1em;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 5em;
+  color: black;
+}
+
+header {
+  padding: 2em 0;
+}
+
+header h2 {
+  font-family: 'Marck Script', cursive;
+}
+
+header p {
+  font-size: 1.8em;
+}
+
+header .btn-lg {
+  font-size: 1.3em;
+  font-style: italic;
+}
+
+footer {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+#skillcost {
+  margin-top: 26px;
+}
