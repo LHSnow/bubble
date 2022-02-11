@@ -76,3 +76,7 @@ footer * {
 .logo img {
   margin-left: auto;
 }
+
+a[href^=tel] {
+  white-space: nowrap;
+}
