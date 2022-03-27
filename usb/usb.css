@@ -77,6 +77,11 @@ footer * {
   margin-left: auto;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 a[href^=tel] {
   white-space: nowrap;
 }
